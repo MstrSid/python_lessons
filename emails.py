@@ -2,6 +2,7 @@ from email.message import EmailMessage
 import smtplib
 from string import Template
 from pathlib import Path
+import requests
 
 my_mail = EmailMessage()
 
