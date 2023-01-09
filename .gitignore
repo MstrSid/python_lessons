@@ -67,7 +67,6 @@ docs/_build/
 
 # PyBuilder
 target/
-venv/
 
 # IPython Notebook
 .ipynb_checkpoints
