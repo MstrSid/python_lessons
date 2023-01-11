@@ -3,6 +3,7 @@
 # Output result json in terminal
 # Output type result json in terminal
 import json
+import requests
 
 some_dict = {
     'id': 15,
